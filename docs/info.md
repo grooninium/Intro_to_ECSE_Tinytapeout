@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+And gate for both inputs
 
 ## How to test
 
-Explain how to use your project
+If both A and B are true, LED lights, not if else
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+1 LED
